@@ -1,0 +1,22 @@
+Computador Portatil HP Pavilion Gaming 15-ec1025la
+Precio: 2.899.000
+
+Resumen del producto:
+-Procesador AMD Ryzen 5
+-Windows 10 Home 64
+-Unidad de estado solido PCIe® NVMe™ M.2 de 256 GB
+-Pantalla de 15.6"
+-Graficas Nvidia® GeForce®
+-Garantía de un año
+
+Ficha Tecnica:
+
+-Tipo de Pantalla: 15,6" de diagonal FHD antirreflejo, con microbordes, retroiluminación WLED 220 nits, 45 % de NTSC (1920 x 1080)
+-Procesador: AMD Ryzen™5 4600H Six Cores 54W (3.0GHz, turbo up to 4.0GHz), 3200MHz/3MB L2
+-Memoria RAM: 8GB DDR4 - 3200 (Expandible a 16 GB)
+-Almacenamiento: 256GB SSD PCIe
+-Gráficas: NVIDIA® GeForce® GTX 1050 3GB
+-Sistema Operativo: Windows 10
+-Puertos: 1 USB Type-C® con SuperSpeed de 5 Gbps Velocidad de señalización; 1 USB Type-A con SuperSpeed de 5 Gbps Velocidad de señalización; 1 USB 2.0 Type-A (HP Sleep and Charge); 1 HDMI 2.0; 1 RJ-45; 1 conector inteligente CA; 1 combinación de auriculares y micrófono
+
+https://www.hp.com/co-es/shop/portatiles/portatiles-gaming/portatil-hp-pavilion-gaming-15-ec1025la-162d6la.html
